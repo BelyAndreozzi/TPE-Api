@@ -1,6 +1,6 @@
 # TPE - API RESTful
 
-En este proyecto realizado para la cátedra de Web 2 de la facultad de Ciencias Exactas de UNICEN se realizó una API REST que permite ver un agente, ver varios agentes con distintas opciones, crear, editar y eliminar agentes. También existe la posibilidad de la Autenticación de usuarios con Tókens. 
+En este proyecto realizado para la cátedra de Web 2 de la facultad de Ciencias Exactas de UNICEN se realizó una API REST que permite ver un agente, ver varios agentes con distintas opciones, crear, editar y eliminar agentes.  
 
 ## API Endpoints
 
