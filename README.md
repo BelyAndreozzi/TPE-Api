@@ -65,7 +65,7 @@ curl --location --request GET '/api/agentes/20/alias'
 
 Ejemplo:
 ```json
-    curl --location --request POST 'localhost/proyectos/TPE-Api/api/agentes' \
+    curl --location --request POST '/api/agentes' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "alias": "Omen",
@@ -105,7 +105,7 @@ Ejemplo:
 
 Ejemplo:
 ```json
-    curl --location --request PUT 'localhost/proyectos/TPE-Api/api/agentes/21' \
+    curl --location --request PUT '/api/agentes/21' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "alias": "Roberto",
@@ -145,5 +145,3 @@ Ejemplo:
 ```
 curl --location --request DELETE '/api/agentes/20'
 ```
-
-### Autenticación
